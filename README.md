@@ -32,9 +32,11 @@ Features Added/Updated Since Last Update
 - Added basic VR locomotion and teleportation movement
 - Player can now explore the entire ship via default controller movement or teleportation
 - Added a working wheel and lever
+- Added a working ladder that the player can use
 
 Issues Encountered
 - I found that testing the game using Quest Link is getting too laggy, it may be because I have not optimized the game and my computer's age is showing.
+- I found a minor bug that is allowing me to float in mid-air after I use the ladder provided by XRIT, seems like an easy fix. 
 
 Lessons Learned
 - The reason the breakable interactable was not working properly was that all the meshes of the smaller objects were enabled and that was messing with the the big parent object.
