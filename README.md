@@ -53,4 +53,27 @@ Issues Encountered
 - I don't know why the sphere game object that is supposed to represent the planet won't render, my guess is that I am putting it too far away from the XR Origin.
 
 Lessons Learned
-- I learned about how complex it can actually be to create an engaging story that moves forward as the player interacts during gameplay. 
+- I learned about how complex it can actually be to create an engaging story that moves forward as the player interacts during gameplay.
+
+Date: June 20, 2024
+Features Added/Updated Since Last Update
+-Added a narrative story
+-Added narrative choices
+-Added narrative tree with different endings and outcomes
+-Added an easter egg
+-Added combat system
+-Added narrative objects and triggers
+-Added a working navigation system
+-Added ability for ship to crash into asteroids
+-Added black hole
+-Added Audios
+- the game is now a full demo with a beginning middle and end and all features and game mechanics work as intended. 
+
+Issues Encountered
+- I encountered too many issues to name, but mostly they were issues that had to do with logic and what game components were connected/referenced to what and what got activated based on something else and so on.
+
+Lessons Learned
+- I learned to really keep in mind references, references, references, references. 
+  
+
+
